@@ -26,7 +26,7 @@ public class MileageController {
 		
 		ModelAndView mav = new ModelAndView("mileage-result");
 		mav.addObject("MPG", MPG);
-		mav.addObject("Gallon", Gallons);
+		mav.addObject("Gallons", Gallons);
 		mav.addObject("result", result);
 		return mav;
 	}
