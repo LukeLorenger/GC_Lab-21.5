@@ -8,7 +8,7 @@
 </head>
 <body>
 Welcome to my page!
-<a href="/mileage-form" >What time is it?</a>
-<a href="/mileage-result" >What time is it?</a>
+<a href="/mileage-form" >Form</a>
+
 </body>
 </html>
